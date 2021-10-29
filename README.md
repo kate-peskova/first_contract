@@ -1,4 +1,4 @@
-# first-contract
+# first_contract
 First steps in creating and deploying a smart contract with Solidity.
 
 In this project we will create a simple solidity smart contract, AssociateProfitSplitter.
